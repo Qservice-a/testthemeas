@@ -1,0 +1,190 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">_wp_page_template</custom-field>
+        <custom-field action="copy">youtube_link</custom-field>
+        <custom-field action="copy">thumbnail_video</custom-field>
+        <custom-field action="copy">show_form_after_content</custom-field>
+        <custom-field action="copy">thumbnail_archive</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">service</custom-type>
+        <custom-type translate="1">review</custom-type>
+        <custom-type translate="1">event_wescle</custom-type>
+        <custom-type translate="1">faq_wescle</custom-type>
+        <custom-type translate="1">gallery_wescle</custom-type>
+        <custom-type translate="1">partner_wescle</custom-type>
+        <custom-type translate="1">popup_wescle</custom-type>
+        <custom-type translate="1">price_wescle</custom-type>
+        <custom-type translate="1">pricepackage_wescle</custom-type>
+        <custom-type translate="1">optionpackage_wescle</custom-type>
+        <custom-type translate="1">price_wescle</custom-type>
+        <custom-type translate="1">portfolio_wescle</custom-type>
+        <custom-type translate="1">product_wescle</custom-type>
+        <custom-type translate="1">program_wescle</custom-type>
+        <custom-type translate="1">stories_wescle</custom-type>
+        <custom-type translate="1">tab_wescle</custom-type>
+        <custom-type translate="1">team_wescle</custom-type>
+        <custom-type translate="1">video_wescle</custom-type>
+    </custom-types>
+    <admin-texts>
+        <key name="theme_mods_wescle-child">
+            <key name="top_banner_slides_logic">
+                <key name="*">
+                    <key name="text"/>
+                    <key name="button_link"/>
+                    <key name="button_text"/>
+                </key>
+            </key>
+            <key name="home_text_before_slider"/>
+            <key name="slider_banner">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="text"/>
+                    <key name="button_link"/>
+                    <key name="button_text"/>
+                </key>
+            </key>
+            <key name="home_blocks_posts">
+                <key name="*">
+                    <key name="block_advt"/>
+                    <key name="block_title"/>
+                </key>
+            </key>
+            <key name="home_services_title"/>
+            <key name="home_services_text"/>
+            <key name="home_services_button_text"/>
+            <key name="home_services_link_text"/>
+            <key name="home_services_posts">
+                <key name="*">
+                    <key name="price"/>
+                    <key name="price_old"/>
+                </key>
+            </key>
+            <key name="home_about_title"/>
+            <key name="home_about_text"/>
+            <key name="home_about_button_text"/>
+            <key name="home_sta_title"/>
+            <key name="home_sta_text"/>
+            <key name="home_sta_items">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="url"/>
+                </key>
+            </key>
+            <key name="home_reviews_title"/>
+            <key name="home_reviews_link_text"/>
+            <key name="home_reviews_button_text"/>
+            <key name="home_advantages_title"/>
+            <key name="home_advantages_items">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="text"/>
+                    <key name="link"/>
+                </key>
+            </key>
+            <key name="home_advantages2_title"/>
+            <key name="home_advantages2_items">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="text"/>
+                    <key name="link"/>
+                </key>
+            </key>
+            <key name="home_faq_title"/>
+            <key name="home_faq_text"/>
+            <key name="home_faq_items">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="text"/>
+                </key>
+            </key>
+            <key name="home_prices_title"/>
+            <key name="home_prices_items">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="text_plus"/>
+                    <key name="text_minus"/>
+                    <key name="price"/>
+                    <key name="price_old"/>
+                    <key name="button_url"/>
+                </key>
+            </key>
+            <key name="home_prices2_title"/>
+            <key name="home_prices2_items">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="text_plus"/>
+                    <key name="text_minus"/>
+                    <key name="price"/>
+                    <key name="price_old"/>
+                    <key name="button_url"/>
+                </key>
+            </key>
+            <key name="home_team_title"/>
+            <key name="home_team_text"/>
+            <key name="home_team_items">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="position"/>
+                    <key name="text"/>
+                </key>
+            </key>
+            <key name="home_how_work_suptitle"/>
+            <key name="home_how_work_title"/>
+            <key name="home_how_work_items">
+                <key name="*">
+                    <key name="title"/>
+                    <key name="text"/>
+                </key>
+            </key>
+            <key name="home_partners_title"/>
+            <key name="home_partners_text"/>
+            <key name="home_contact_title"/>
+            <key name="home_contact_block_left_title"/>
+            <key name="home_contact_block_left_text"/>
+            <key name="home_contact_block_left_text2"/>
+            <key name="home_contact_block_left_map"/>
+            <key name="home_contact_block_right_title"/>
+            <key name="home_contact_block_right_text"/>
+            <key name="home_contact_cf7"/>
+            <key name="home_contact_block_left_phones">
+                <key name="*">
+                    <key name="anchor"/>
+                </key>
+            </key>
+            <key name="home_difference_title"/>
+            <key name="home_difference_text"/>
+            <key name="home_seo_title"/>
+            <key name="home_seo_text"/>
+            <key name="home_seo_text_open"/>
+            <key name="home_seo_text_close"/>
+            <key name="address_text"/>
+            <key name="address_link"/>
+            <key name="phone_primary"/>
+            <key name="work_time"/>
+            <key name="phone_others">
+                <key name="*">
+                    <key name="phone"/>
+                </key>
+            </key>
+            <key name="button_title"/>
+            <key name="button_custom_link"/>
+            <key name="callback_сf7"/>
+            <key name="button_custom_link"/>
+            <key name="footer_subscribe_text"/>
+            <key name="copyright"/>
+            <key name="post_block_related_title"/>
+            <key name="service_block_related_title"/>
+            <key name="module_breadcrumb_home_text"/>
+            <key name="toc_title"/>
+            <key name="module_schema_name"/>
+            <key name="module_schema_url"/>
+            <key name="module_schema_contact_tel"/>
+            <key name="module_schema_contact_url"/>
+            <key name="cookie_banner_text"/>
+            <key name="cookie_banner_button_label"/>
+            <key name="partner_prefix"/>
+            <key name="partner_postfix"/>
+        </key>
+    </admin-texts>
+</wpml-config>
